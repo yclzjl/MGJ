@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-++++++++++++++++++
-=======
-221
->>>>>>> zjl
+aistr
 </body>
 </html>

@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-aistr
+aistr2
 </body>
 </html>
